@@ -27,7 +27,7 @@ The following 'tikz' source block gets rendered to a svg image:
 And this results into the =svg= image:
 
 #+begin_html
-<img src=https://raw.githubusercontent.com/ppaulweber/org-tikz/master/var/out.svg>
+<img src=./var/out.svg>
 #+end_html
 
 
